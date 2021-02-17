@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
-        <img alt="HackerRank Logo | Nathan Abela Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+        <img alt="HackerRank Logo | Nathan Abela Profile" src="https://www.hackerrank.com/anujf0510" >
     </a>
 </p>
 
